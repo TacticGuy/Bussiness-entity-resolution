@@ -1,0 +1,19 @@
+# Challenge dataset - DO NOT PUSH
+dataset/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Generated submission files
+output/*.tsv
+output/*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
